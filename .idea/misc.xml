@@ -3,10 +3,21 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Android/PrivateAlbum/app/src/main/res/layout/activity_main.xml" value="0.20104166666666667" />
+        <entry key="..\:/Android/PrivateAlbum/app/src/main/res/drawable/add.xml" value="0.113" />
+        <entry key="..\:/Android/PrivateAlbum/app/src/main/res/drawable/image_album.xml" value="0.107" />
+        <entry key="..\:/Android/PrivateAlbum/app/src/main/res/drawable/irename.xml" value="0.1655" />
+        <entry key="..\:/Android/PrivateAlbum/app/src/main/res/drawable/rounded_edit_text_shape.xml" value="0.1815" />
+        <entry key="..\:/Android/PrivateAlbum/app/src/main/res/drawable/video_album.xml" value="0.1585" />
+        <entry key="..\:/Android/PrivateAlbum/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Android/PrivateAlbum/app/src/main/res/layout/album_item.xml" value="0.2" />
+        <entry key="..\:/Android/PrivateAlbum/app/src/main/res/layout/album_name_dialog.xml" value="0.264" />
         <entry key="..\:/Android/PrivateAlbum/app/src/main/res/layout/fragment_advertisement.xml" value="0.20104166666666667" />
+        <entry key="..\:/Android/PrivateAlbum/app/src/main/res/layout/fragment_home.xml" value="0.15208333333333332" />
+        <entry key="..\:/Android/PrivateAlbum/app/src/main/res/layout/fragment_image_album.xml" value="0.2" />
         <entry key="..\:/Android/PrivateAlbum/app/src/main/res/layout/fragment_unlock.xml" value="0.2" />
+        <entry key="..\:/Android/PrivateAlbum/app/src/main/res/layout/fragment_video_album.xml" value="0.2296875" />
         <entry key="..\:/Android/PrivateAlbum/app/src/main/res/layout/fragment_welcome.xml" value="0.2" />
+        <entry key="..\:/Android/PrivateAlbum/app/src/main/res/menu/bottom_nav_menu.xml" value="0.24427083333333333" />
         <entry key="..\:/Android/PrivateAlbum/app/src/main/res/xml/network_security_config.xml" value="0.10677083333333333" />
       </map>
     </option>

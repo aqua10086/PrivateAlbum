@@ -51,7 +51,7 @@ class AdvertisementFragment : Fragment() {
 
     override fun onResume() {
         super.onResume()
-        //缩小动画
+        //开屏缩小动画
         binding.advImageView.startAnimationWithListener(R.anim.image_scale_anim)
         binding.timeoutJumpView.startTimer(3000, onAnimatorEnd = {
 

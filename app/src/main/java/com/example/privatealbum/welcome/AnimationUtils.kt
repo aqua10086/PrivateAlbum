@@ -3,6 +3,7 @@ package com.example.privatealbum.utils
 import android.animation.ObjectAnimator
 import android.content.Context
 import android.view.View
+import android.view.animation.AccelerateInterpolator
 import android.view.animation.Animation
 import android.view.animation.AnimationUtils
 import java.time.OffsetDateTime
@@ -59,8 +60,10 @@ fun View.startShakeAnimation(offsetX:Float,time:Long){
         0f
     ).apply {
         duration = time
-        repeatCount = 2
+        repeatCount = 3
         repeatMode = ObjectAnimator.RESTART
+        //加速
+        interpolator = AccelerateInterpolator()
         start()
     }
 }
